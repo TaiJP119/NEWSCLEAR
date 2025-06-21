@@ -6,6 +6,8 @@ ImagineHack 2025
 
 Application act as a detector using CLIP model for fake new's patterns, relationships, features extractor and generate an reference that will be fed to Gemini AI which initiate a result that includes the validity of the news, the percentage of truthfulness, and the supporting reasons behind the result.
 
+# Team Name
+THREEERING
 # Team Members
 
 - Foo Tun Yang
