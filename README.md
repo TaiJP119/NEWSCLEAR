@@ -60,10 +60,20 @@ Flutter pub get
 Flutter run
 ```
 
-run the server:
-
+Run the FastApi as server:
+1. Create & activate a virtual environment
+```bash
+python -m venv venv
+venv\Scripts\activate.bat
+```
+2. Install dependencies （https://alitech.io/blog/how-to-install-and-set-up-fastapi-a-step-by-step-guide/）
+```bash
+pip install fastapi
+pip install uvicorn
+```
+3. run the server
 ```bash
 uvicorn server:app --reload
-venv\Scripts\activate.bat
+venv\Scripts\activate.bat  
 uvicorn server:app --host 0.0.0.0 --port 8000
 ```
