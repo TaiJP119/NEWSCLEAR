@@ -44,7 +44,7 @@ Install libraries required from `requirements.txt` using:
 pip install -r requirements.txt
 ```
 
-Before execute the application, train CLIP model by running all the codes inside `CLIP_model.ipynb`. For datasets, download from [this link](https://drive.google.com/drive/folders/1Jo_xPIYQ-Nm5ieSbBJBrOw0awgMdiQHj?usp=sharing). `True.csv` and `Fake.csv` is text model datasets while `Final Dataset` is vision model.
+Before execute the application, train CLIP model by running all the codes inside `CLIP_model.ipynb`. For datasets, download from [this link](https://drive.google.com/drive/folders/1Jo_xPIYQ-Nm5ieSbBJBrOw0awgMdiQHj?usp=sharing). `True.csv` and `Fake.csv` is text model datasets while `Final Dataset` is vision model datasets.
 
 Run in terminal to execute application :
 
