@@ -27,7 +27,8 @@ CLIP Classification model fine-tuning and training:
 **_Gemini Ai api_**
 
 GUI:
-**_Flutter_**, 
+**_Flutter_**
+
 Server configuraion:
 **_fast-api_**
 
