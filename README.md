@@ -1,6 +1,6 @@
-# bohpiai
+# NEWSCLEAR
 
-A new Flutter project.
+ImagineHack 2025
 
 ## Getting Started
 
