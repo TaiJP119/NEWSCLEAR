@@ -19,13 +19,13 @@ Application act as a detector using CLIP model for fake new's patterns, relation
 Data pre-processing
 
 CLIP Classification model fine-tuning and training:
-**_openai/clip-vit-base-patch32_**\n
-**_AdamW optimizer_**\n
-**_BCEWithLogitsLoss function_**\n
-**_Gemini Ai api_**\n
+**_openai/clip-vit-base-patch32_**, 
+**_AdamW optimizer_**, 
+**_BCEWithLogitsLoss function_**, 
+**_Gemini Ai api_**
 
 GUI:
-**_Flutter_**
+**_Flutter_**, 
 **_fast-api_**
 
 # Challenge and Approach
