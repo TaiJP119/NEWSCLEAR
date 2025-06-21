@@ -1,6 +1,6 @@
-# Project Title
+# NEWSCLEAR
 
-NEWSCLEAR
+ImagineHack 2025
 
 # Decription
 
