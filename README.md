@@ -24,6 +24,8 @@ CLIP Classification model fine-tuning and training:
 **_openai/clip-vit-base-patch32_**, 
 **_AdamW optimizer_**, 
 **_BCEWithLogitsLoss function_**, 
+
+APIs:
 **_Gemini Ai api_**
 
 GUI:
