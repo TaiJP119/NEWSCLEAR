@@ -28,6 +28,7 @@ CLIP Classification model fine-tuning and training:
 
 GUI:
 **_Flutter_**, 
+Server configuraion:
 **_fast-api_**
 
 # Challenge and Approach
