@@ -67,7 +67,7 @@ Run the FastApi as server:
 python -m venv venv
 venv\Scripts\activate.bat
 ```
-2. Install dependencies （https://alitech.io/blog/how-to-install-and-set-up-fastapi-a-step-by-step-guide/）
+2. Install dependencies (https://alitech.io/blog/how-to-install-and-set-up-fastapi-a-step-by-step-guide/)
 ```bash
 pip install fastapi
 pip install uvicorn
