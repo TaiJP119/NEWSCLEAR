@@ -43,6 +43,7 @@ To retrieve up-to-date news content using authenticated API access.
 To prevent users from accessing misleading information.
 
 # Usage Instructions
+Replace `YOUR_API_KEY` with your gemini api key at `lib/ai_page.dart` and `lib/aimodel.dart`.
 
 Install libraries required from `requirements.txt` using:
 
