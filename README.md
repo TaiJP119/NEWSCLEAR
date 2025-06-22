@@ -72,7 +72,7 @@ venv\Scripts\activate.bat
 pip install fastapi
 pip install uvicorn
 ```
-3. run the server
+3. Run the server
 ```bash
 uvicorn server:app --reload
 venv\Scripts\activate.bat  
